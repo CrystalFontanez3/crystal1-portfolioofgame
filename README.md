@@ -14,6 +14,8 @@ A simple command-line number guessing game written in Python.
 ## Requirements
 
 - Python 3.x
+- CSS
+- Javascript
 
 ## Run
 
